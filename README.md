@@ -26,6 +26,8 @@
  <li>Validation accuracy on 500 images of the test set was 74.6% indicating the model was slightly overfit.</li>
  <li>Example of a prediction:</li>
  
+ ![alt text](https://github.com/harshanavkis/Dogs-Vs-Cats/blob/master/catDog.png)
+ 
  Libraries and Packages used
  -----------------------------
  <li>TensorFlow.
