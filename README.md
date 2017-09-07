@@ -12,16 +12,16 @@
  -------------
  <li>6 Convolutional Layers were created</li>
  <li>Each layer had the combination: \[Convolution Filter->ReLu->Max Pooling\].</li>
- <li>Each Convolution Filter was of size $3x3$.</li>
+ <li>Each Convolution Filter was of size $$3x3$$.</li>
  <li>Filter depths of 32 and 64 was used in alternate layers.</li>
  <li>Filter stride used is 1.</li>
- <li>Pooling window of size $2x2$ was used with stride of 2.</li>
- <li>Two fully connected layers of size 1024 and 2 was used.<li>
+ <li>Pooling window of size $$2x2$$ was used with stride of 2.</li>
+ <li>Two fully connected layers of size 1024 and 2 was used.</li>
  
  Results
  --------
- <li>Maximum mini-batch accuracy of $96.1%$ was achieved.</li>
- <li>Validation accuracy on 500 images of the test set was $74.6%$ indicating the model was slightly overfit.</li>
+ <li>Maximum mini-batch accuracy of $$96.1%$$ was achieved.</li>
+ <li>Validation accuracy on 500 images of the test set was $$74.6%$$ indicating the model was slightly overfit.</li>
  <li>Example of a prediction:</li>
  
  Libraries and Packages used
