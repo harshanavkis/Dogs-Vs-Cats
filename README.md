@@ -24,8 +24,8 @@
  <li>Validation accuracy on 500 images of the test set was 74.6% indicating the model was slightly overfit.</li>
  <li>Example of a prediction:</li>
  
- Libraries and Packages used
- ----------------------------
+ ##Libraries and Packages used
+ 
  *TensorFlow.
  *Numpy.
  *OpenCV. 
