@@ -2,6 +2,8 @@
  ============
  Given an input image, predict which of them it is. Essentially a binary image classification task.
  
+ Dataset can be downloaded from [here](https://www.kaggle.com/c/dogs-vs-cats).
+ 
  Approach
  ---------
  <li>Resize the images to size 64x64 and then convert them from RGB to grayscale.</li>
