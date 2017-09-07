@@ -26,7 +26,7 @@
  
  Libraries and Packages used
  ----------------------------
- <li>TensorFlow **v0.11**</li>
- <li>Numpy **v1.13.1**</li>
- <li>OpenCV **v3.2**</li>
+ <li>TensorFlow __v0.11__</li>
+ <li>Numpy __v1.13.1__</li>
+ <li>OpenCV __v3.2__</li>
  
